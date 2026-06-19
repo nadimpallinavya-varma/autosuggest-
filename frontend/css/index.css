@@ -21,3 +21,22 @@ h1 {
     padding: 20px;
     text-align:center;
 }
+.navbar{
+    border: 4px;
+    border-style:solid;
+    border-color:black;
+    padding:20px;
+    background-color:darkslateblue;
+    text-align:center;
+}
+.navbar a{
+    color:cornflowerblue;
+    padding:10px;
+    text-decoration:none;
+}
+.navbar a:hover{
+    background-color: plum(163,97,97);
+}
+body{
+    margin:0px;
+}
