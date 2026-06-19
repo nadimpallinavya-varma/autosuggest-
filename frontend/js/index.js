@@ -1,3 +1,3 @@
-alert("Hello From JS !")
+alert("Konnichiwa Navya San!")
 
-console.log("Hello from js !");
+console.log("Konnichiwa Navya San!");

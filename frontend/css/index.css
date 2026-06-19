@@ -1,4 +1,23 @@
 h1 {
-    color: red;
-    
+    color: blue;
+
+}
+#Nihonjin{
+    color:yellowgreen;
+}
+.Onamaewa {
+    color:navy;
+}
+.Janiee{
+    color:navy;
+}
+.Tokyo{
+    color:navy;
+}
+.para{
+    border: 2px;
+    border-color:brown;
+    border-style:solid;
+    padding: 20px;
+    text-align:center;
 }
