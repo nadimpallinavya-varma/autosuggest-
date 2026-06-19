@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest-",
+  "version": "1.0.0",
+  "description": "Verify my git set up !",
+  "homepage": "https://github.com/nadimpallinavya-varma/autosuggest-#readme",
+  "bugs": {
+    "url": "https://github.com/nadimpallinavya-varma/autosuggest-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadimpallinavya-varma/autosuggest-.git"
+  },
+  "license": "ISC",
+  "author": "Navya",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
